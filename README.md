@@ -17,7 +17,7 @@ Include a list of the tools used in the project:
 <a class="anchor" id="installation"></a>
 >## Installation Instructions
 .
-<a class="anchor" id="#contact"></a>
+<a class="anchor" id="contact"></a>
 >## Contact Information
 [David Wu](https://www.linkedin.com/in/david-wu-58086188/)
 [@davew306]Linkedin
